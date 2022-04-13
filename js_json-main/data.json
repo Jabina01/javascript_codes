@@ -1,0 +1,32 @@
+{
+      "Jabu@123": [
+            {
+                  "name": "jabeena",
+                  "password": "Jabu@123",
+                  "describtion": "wert",
+                  "DOB": "wert",
+                  "Hobbies": "erty",
+                  "Gender": "erty"
+            }
+      ],
+      "Abu@123": [
+            {
+                  "name": "aabiru",
+                  "password": "Abu@123",
+                  "describtion": "wer",
+                  "DOB": "wqer",
+                  "Hobbies": "wert",
+                  "Gender": "wert"
+            }
+      ],
+      "Aabiru@123": [
+            {
+                  "name": "Aabiru",
+                  "password": "Aabiru@123",
+                  "describtion": "ertyui",
+                  "DOB": "dfghjk",
+                  "Hobbies": "cvbnm",
+                  "Gender": "dfghj"
+            }
+      ]
+}

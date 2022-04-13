@@ -1,0 +1,1 @@
+var punchline = "The accountant.";
